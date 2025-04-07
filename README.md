@@ -6,7 +6,7 @@
 - Backend: Spring Boot
 - DB: Oracle, MySQL
 - Frontend: HTML, CSS, JavaScript, React
-- language : Java
+- favorite language : Java
 
 <!--깃허브 활용수-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongJiness&show_icons=true&theme=radical)
